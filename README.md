@@ -2,7 +2,7 @@
 
 This a curated list of awesome python, machine learning and data science frameworks, libraries, resources and articles.  
 I'm making this list for my personal but I will be updating this every time as I'm advancing this career path. 
-- [Awesome Python](#awesome-python)
+- [Awesome Python](#awesome-python)  
   -[Clean Code](#clean-Code)
 ---
 ##Clean Code
