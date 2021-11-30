@@ -7,7 +7,7 @@ I'm making this list for my personal use but I will be updating this every time 
   - [Information Retrieval](#Information-Retrieval)
   - [Machine Learning](#Machine-Learning)
   - [Tools and development environements](#Tools-and-development-environements)
-   -  [Jupyter Notebook](#Jupyter-Notebook)
+    -  [Jupyter Notebook](#Jupyter-Notebook)
 ---
 ## Clean Code:
 - [How to write beautiful python code with PEP 8](https://realpython.com/python-pep8/)  
