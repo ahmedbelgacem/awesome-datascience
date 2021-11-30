@@ -18,3 +18,5 @@ This is a curated list of awesome python, machine learning and data science fram
 ## Tools and development environements: 
 - Jupyter Notebook:
    - [7 essential tips for writing with jupyter notebook](https://towardsdatascience.com/7-essential-tips-for-writing-with-jupyter-notebook-60972a1a8901)
+## Search:
+- [Semantic Search - Sentence Transformers Documentation](https://www.sbert.net/examples/applications/semantic-search/README.html) - A guide on using sbert for semantic search
