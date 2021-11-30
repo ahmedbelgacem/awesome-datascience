@@ -1,6 +1,7 @@
 # awesome-python
 
-This is mainly a curated list of awesome python, machine learning and data science resources, articles, guides and books since there's a lot of awesome lists for frameworks and libraries out there. This list will follow me along my journey and I will be updating it as I progress. I'm making this list for my personal use mainly but I'm sharing it here if it may help anyone. Feel free to use it.
+This is mainly a curated list of awesome python, machine learning and data science resources, articles, guides and books since there's a lot of awesome lists for frameworks and libraries out there. I may add libraries, software and frameworks I find awesomme but that's not the purpose of this list.  
+This list will follow me along my journey and I will be updating it as I progress. I'm making this list for my personal use mainly but I'm sharing it here if it may help anyone. Feel free to use it.
 - [Awesome Python](#awesome-python)  
   - [Clean Code](#clean-Code)
   - [Information Retrieval](#Information-Retrieval)
