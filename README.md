@@ -6,6 +6,7 @@ This list will follow me along my journey and I will be updating it as I progres
   - [Clean Code](#clean-Code)
   - [Information Retrieval](#Information-Retrieval)
   - [Machine Learning](#Machine-Learning)
+  - [Search](#Search)
   - [Tools and development environements](#Tools-and-development-environements)
     -  [Jupyter Notebook](#Jupyter-Notebook)
 ---
