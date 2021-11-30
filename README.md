@@ -16,6 +16,6 @@ I'm making this list for my personal but I will be updating this every time as I
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 ## Machine Learning
 - [Python Machine Learning, 3rd Edition](https://sebastianraschka.com/books/#python-machine-learning-3rd-edition)
-## Tools and development environements
+## Tools and development environements 
   ### Jupyter Notebook
-    - [7 essential tips for writing with jupyter notebook](https://towardsdatascience.com/7-essential-tips-for-writing-with-jupyter-notebook-60972a1a8901)
+   - [7 essential tips for writing with jupyter notebook](https://towardsdatascience.com/7-essential-tips-for-writing-with-jupyter-notebook-60972a1a8901)
