@@ -1,8 +1,9 @@
 # awesome-python
 
 This a curated list of awesome python, machine learning and data science frameworks, libraries, resources and articles.  
-I'm making this list for my personal but I will be updating this every time as I'm advancing this career path.  
-[Clean Code](#clean code)
+I'm making this list for my personal but I will be updating this every time as I'm advancing this career path. 
+- [Awesome Python](#awesome-python)
+  -[Clean Code](#clean Code)
 ---
 ##Clean Code
 [How to write beautiful python code with PEP 8](https://realpython.com/python-pep8/)
