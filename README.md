@@ -5,6 +5,7 @@ This list will follow me along my journey and I will be updating it as I progres
 - [Awesome Python](#awesome-python)  
   - [Clean Code](#clean-Code)
   - [Information Retrieval](#Information-Retrieval)
+  - [Distribution](#Distribution)
   - [Machine Learning](#Machine-Learning)
   - [Search](#Search)
   - [Tools and development environements](#Tools-and-development-environements)
@@ -13,6 +14,8 @@ This list will follow me along my journey and I will be updating it as I progres
 ## Clean Code:
 - [How to write beautiful python code with PEP 8](https://realpython.com/python-pep8/)  
 - [5 Different Meanings of Underscore in Python](https://towardsdatascience.com/5-different-meanings-of-underscore-in-python-3fafa6cd0379)
+## Distribution:
+- [How to create a Python library](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f)
 ## Information Retrieval:
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 ## Machine Learning:
