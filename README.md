@@ -7,6 +7,7 @@ This list will follow me along my journey and I will be updating it as I progres
   - [Information Retrieval](#Information-Retrieval)
   - [Distribution](#Distribution)
   - [Machine Learning](#Machine-Learning)
+  - [Metaclasses](#Metaclasses)
   - [Search](#Search)
   - [Tools and development environements](#Tools-and-development-environements)
     -  [Jupyter Notebook](#Jupyter-Notebook)
@@ -20,6 +21,8 @@ This list will follow me along my journey and I will be updating it as I progres
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 ## Machine Learning:
 - [Python Machine Learning, 3rd Edition](https://sebastianraschka.com/books/#python-machine-learning-3rd-edition)
+## Metaclasses:
+- [Python Metaclasses](https://www.godaddy.com/engineering/2018/12/20/python-metaclasses/)
 ## Tools and development environements: 
 - Jupyter Notebook:
    - [7 essential tips for writing with jupyter notebook](https://towardsdatascience.com/7-essential-tips-for-writing-with-jupyter-notebook-60972a1a8901)
