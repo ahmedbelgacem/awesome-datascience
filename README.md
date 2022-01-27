@@ -9,6 +9,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [AI and games](#AI-and-games)
     - [Monte Carlo Search](#Monte-Carlo-Search) 
   - [Deep Learning](#Deep-Learning)
+  - [Exploratory Data Analysis]:
+    - [Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis](#Principal-component-analysis,-Correspondence-Analysis,-Multiple-Correspondence-Analysis)
   - [Fundamentals](#Fundamentals)
     - [Git](#Git)
     - [Regex](#Regex)
@@ -33,6 +35,9 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Monte Carlo Search - Tristan Cazenave](https://www.lamsade.dauphine.fr/~cazenave/MonteCarlo.pdf)
 # Deep Learning:
   - [Deep Learning Specialization - Andrew NG](https://www.coursera.org/specializations/deep-learning)
+# Exploratory Data Analysis:
+  ## Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis:
+    [Analyse des données - Patrice Bertrand et Denis Pasquignon](https://www.ceremade.dauphine.fr/~pasquignon/analyse-des-donnees-M1.pdf)
 # Fundamentals:
   - ## Git:
     - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git)
