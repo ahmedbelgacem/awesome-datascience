@@ -6,6 +6,7 @@ Some of the courses are courses I had at my university that are available freely
 Due to my master's degree and to my engineering degree I have free access to DataCamp, to some Coursera Courses and to different books from the library. Therefor you may have to purchase some stuff.
 
 - [Awesome Data Science:](#awesome-datascience)
+  - [AI and games](#AI-and-games)
   - [Deep Learning](#Deep-Learning)
   - [Fundamentals](#Fundamentals)
     - [Git](#Git)
@@ -26,7 +27,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Web Scraping](#Web-Scraping)  
 ---
 # AI and games:
-  - [Intelligence artificielle une approche ludique - Tristan Cazenave](https://basepub.dauphine.fr/handle/123456789/9340)
+  - [Intelligence artificielle une approche ludique - Tristan Cazenave](https://basepub.dauphine.fr/handle/123456789/9340) (French Book)
   - [Monte Carlo Search - Tristan Cazenave](https://www.lamsade.dauphine.fr/~cazenave/MonteCarlo.pdf)
 # Deep Learning:
   - [Deep Learning Specialization - Andrew NG](https://www.coursera.org/specializations/deep-learning)
