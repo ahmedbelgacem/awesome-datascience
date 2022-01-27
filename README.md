@@ -28,7 +28,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 ---
 # AI and games:
   - [Intelligence artificielle une approche ludique - Tristan Cazenave](https://basepub.dauphine.fr/handle/123456789/9340) (French Book)
-  - [Monte Carlo Search - Tristan Cazenave](https://www.lamsade.dauphine.fr/~cazenave/MonteCarlo.pdf)
+  - ## Monte Carlo Search
+    - [Monte Carlo Search - Tristan Cazenave](https://www.lamsade.dauphine.fr/~cazenave/MonteCarlo.pdf)
 # Deep Learning:
   - [Deep Learning Specialization - Andrew NG](https://www.coursera.org/specializations/deep-learning)
 # Fundamentals:
