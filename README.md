@@ -18,15 +18,15 @@ This list will follow me along my journey and I will be updating it as I progres
     - [Tools and development environements](#Tools-and-development-environements)
       - [Jupyter Notebook](#Jupyter-Notebook)
   - [Statistics](#Statistics)
-    - [Estimation, Confidence Interval, Hypothesis Testing](#Estimation,-Confidence Interval,-Hypothesis Testing)
+    - [Estimation, Confidence Interval, Hypothesis Testing](#Estimation,-Confidence-Interval,-Hypothesis-Testing)
     - [Monte Carlo Method](#Monte-Carlo-Method)
   - [Web Scraping](#Web-Scraping)  
 ---
 # Deep Learning:  
 # Fundamentals:
-  - ##Git:
+  - ## Git:
     - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git)
-  - ##Regex:
+  - ## Regex:
 # Information Retrieval:
   - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
   - ## Semantic Search:
@@ -34,7 +34,7 @@ This list will follow me along my journey and I will be updating it as I progres
 # Machine Learning:
   - [Python Machine Learning, 3rd Edition](https://sebastianraschka.com/books/#python-machine-learning-3rd-edition)
 # Python:
-- ##Clean Code:
+- ## Clean Code:
   - [How to write beautiful python code with PEP 8](https://realpython.com/python-pep8/)  
   - [5 Different Meanings of Underscore in Python](https://towardsdatascience.com/5-different-meanings-of-underscore-in-python-3fafa6cd0379)
 - ## Distribution:
@@ -43,7 +43,7 @@ This list will follow me along my journey and I will be updating it as I progres
 - ## Documentation:
   - [Python Docstrings](https://www.datacamp.com/community/tutorials/docstrings-python)
   - [Auto-documenting a python project using Sphinx](https://betterprogramming.pub/auto-documenting-a-python-project-using-sphinx-8878f9ddc6e9)
-- ##Metaclasses:
+- ## Metaclasses:
   - [Python Metaclasses](https://www.godaddy.com/engineering/2018/12/20/python-metaclasses/)
 - ## Tools and development environements: 
   - Jupyter Notebook:
