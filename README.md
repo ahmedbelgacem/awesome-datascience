@@ -37,7 +37,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Deep Learning Specialization - Andrew NG](https://www.coursera.org/specializations/deep-learning)
 # Exploratory Data Analysis:
   ## Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis:
-    [Analyse des données - Patrice Bertrand et Denis Pasquignon](https://www.ceremade.dauphine.fr/~pasquignon/analyse-des-donnees-M1.pdf)
+  - [Analyse des données - Patrice Bertrand et Denis Pasquignon](https://www.ceremade.dauphine.fr/~pasquignon/analyse-des-donnees-M1.pdf)
 # Fundamentals:
   - ## Git:
     - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git)
