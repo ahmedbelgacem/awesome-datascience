@@ -1,8 +1,10 @@
 # awesome-datascience
 
 This is mainly a curated list of awesome python, machine learning and data science resources, articles, guides, courses and books. Since there's a lot of awesome lists for frameworks and libraries out there, I may add libraries, software and frameworks I find awesome but that's not the purpose of this list.  
-This list will follow me along my journey and I will be updating it as I progress. I'm making this list for my personal use mainly but I'm sharing it here if it may help anyone.  
+This list will follow me along my journey and I will be updating it as I progress. I'm making this list for my personal use mainly but I'm sharing it here if it may help anyone.
+Some of the courses are courses I had at my university that are available freely online.
 Due to my master's degree and to my engineering degree I have free access to DataCamp, to some Coursera Courses and to different books from the library. Therefor you may have to purchase some stuff.
+
 - [Awesome Data Science:](#awesome-datascience)
   - [Deep Learning](#Deep-Learning)
   - [Fundamentals](#Fundamentals)
@@ -23,6 +25,9 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Monte Carlo Method](#Monte-Carlo-Method)
   - [Web Scraping](#Web-Scraping)  
 ---
+# AI and games:
+  - [Intelligence artificielle une approche ludique - Tristan Cazenave](https://basepub.dauphine.fr/handle/123456789/9340)
+  - [Monte Carlo Search - Tristan Cazenave](https://www.lamsade.dauphine.fr/~cazenave/MonteCarlo.pdf)
 # Deep Learning:
   - [Deep Learning Specialization - Andrew NG](https://www.coursera.org/specializations/deep-learning)
 # Fundamentals:
