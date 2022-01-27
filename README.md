@@ -9,8 +9,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [AI and games](#AI-and-games)
     - [Monte Carlo Search](#Monte-Carlo-Search) 
   - [Deep Learning](#Deep-Learning)
-  - [Exploratory Data Analysis]:
-    - [Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis](#Principal-component-analysis,-Correspondence-Analysis,-Multiple-Correspondence-Analysis)
+  - [Exploratory Data Analysis](#Exploratory-Data-Analysis):
+    - [Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis](#Principal-component-analysis-Correspondence-Analysis-Multiple-Correspondence-Analysis)
   - [Fundamentals](#Fundamentals)
     - [Git](#Git)
     - [Regex](#Regex)
