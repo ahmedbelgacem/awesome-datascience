@@ -7,6 +7,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 
 - [Awesome Data Science:](#awesome-datascience)
   - [AI and games](#AI-and-games)
+    - [Monte Carlo Search](#Monte-Carlo-Search) 
   - [Deep Learning](#Deep-Learning)
   - [Fundamentals](#Fundamentals)
     - [Git](#Git)
@@ -27,7 +28,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Web Scraping](#Web-Scraping)  
 ---
 # AI and games:
-  - [Intelligence artificielle une approche ludique - Tristan Cazenave](https://basepub.dauphine.fr/handle/123456789/9340) (French Book)
+  - [Intelligence artificielle, une approche ludique - Tristan Cazenave](https://basepub.dauphine.fr/handle/123456789/9340) (French Book)
   - ## Monte Carlo Search
     - [Monte Carlo Search - Tristan Cazenave](https://www.lamsade.dauphine.fr/~cazenave/MonteCarlo.pdf)
 # Deep Learning:
