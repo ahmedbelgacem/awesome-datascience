@@ -21,6 +21,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Clean Code](#Clean-Code)
     - [Distribution](#Distribution)
     - [Documentation](#Documentation)
+    - [Efficient Code](#Efficient-Code)
     - [Metaclasses](#Metaclasses)
     - [Tools and development environements](#Tools-and-development-environements)
       - [Jupyter Notebook](#Jupyter-Notebook)
@@ -61,6 +62,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 - ## Documentation:
   - [Python Docstrings](https://www.datacamp.com/community/tutorials/docstrings-python)
   - [Auto-documenting a python project using Sphinx](https://betterprogramming.pub/auto-documenting-a-python-project-using-sphinx-8878f9ddc6e9)
+- ## Efficient Code:
+  - [Unpacking in Python](https://stackabuse.com/unpacking-in-python-beyond-parallel-assignment/)
 - ## Metaclasses:
   - [Python Metaclasses](https://www.godaddy.com/engineering/2018/12/20/python-metaclasses/)
 - ## Tools and development environements: 
