@@ -54,6 +54,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 - ## Clean Code:
   - [How to write beautiful python code with PEP 8](https://realpython.com/python-pep8/)  
   - [5 Different Meanings of Underscore in Python](https://towardsdatascience.com/5-different-meanings-of-underscore-in-python-3fafa6cd0379)
+  - [The Zen of Python](https://zen-of-python.info/)
 - ## Distribution:
   - [How to create a Python library](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f)
   - [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
