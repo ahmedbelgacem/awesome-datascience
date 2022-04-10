@@ -73,10 +73,10 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 - ## Metaclasses:
   - [Python Metaclasses](https://www.godaddy.com/engineering/2018/12/20/python-metaclasses/)
 - ## Tools and development environements: 
-  - ###Jupyter Notebook
+  - ### Jupyter Notebook
     - [7 essential tips for writing with jupyter notebook](https://towardsdatascience.com/7-essential-tips-for-writing-with-jupyter-notebook-60972a1a8901)
 - ## Preparing for a coding interview:
-  - ###Python implementation for different coding problem patterns
+  - ### Python implementation for different coding problem patterns
     - [Coding Patterns: In-place Reversal of a Linked List](https://emre.me/coding-patterns/in-place-reversal-of-a-linked-list/)
 # Statistics:
 - ## Estimation, Confidence Interval, Hypothesis Testing:
