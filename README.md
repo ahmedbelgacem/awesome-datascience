@@ -26,6 +26,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Metaclasses](#Metaclasses)
     - [Tools and development environements](#Tools-and-development-environements)
       - [Jupyter Notebook](#Jupyter-Notebook)
+    - [Preparing for a coding interview](#Preparing-for-a-coding-interview)
   - [Statistics](#Statistics)
     - [Estimation, Confidence Interval, Hypothesis Testing](#Estimation-Confidence-Interval-Hypothesis-Testing)
     - [Monte Carlo Method](#Monte-Carlo-Method)
@@ -73,6 +74,9 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 - ## Tools and development environements: 
   - Jupyter Notebook:
     - [7 essential tips for writing with jupyter notebook](https://towardsdatascience.com/7-essential-tips-for-writing-with-jupyter-notebook-60972a1a8901)
+- ## Preparing for a coding interview:
+  - Python implementation for different coding problem patterns:
+    - [Coding Patterns: In-place Reversal of a Linked List](https://emre.me/coding-patterns/in-place-reversal-of-a-linked-list/)
 # Statistics:
 - ## Estimation, Confidence Interval, Hypothesis Testing:
   - [Statistique mathématique - Vincent Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/Poly-L3-StatMath.pdf) (French Course)
