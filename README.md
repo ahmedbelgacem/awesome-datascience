@@ -22,6 +22,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Distribution](#Distribution)
     - [Documentation](#Documentation)
     - [Efficient Code](#Efficient-Code)
+    - [Generators](#Generators)
     - [Metaclasses](#Metaclasses)
     - [Tools and development environements](#Tools-and-development-environements)
       - [Jupyter Notebook](#Jupyter-Notebook)
@@ -64,6 +65,9 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Auto-documenting a python project using Sphinx](https://betterprogramming.pub/auto-documenting-a-python-project-using-sphinx-8878f9ddc6e9)
 - ## Efficient Code:
   - [Unpacking in Python](https://stackabuse.com/unpacking-in-python-beyond-parallel-assignment/)
+- ## Generators:
+  - [Python yield, Generators and Generator Expressions](https://www.programiz.com/python-programming/generator?fbclid=IwAR2aGKoKpvMJy2R-jINBQMM7qcOeBczS192k1c2TZYwiV7YAKc1XKhboS4k)
+  - [How to Use Generators and yield in Python](https://realpython.com/introduction-to-python-generators/)
 - ## Metaclasses:
   - [Python Metaclasses](https://www.godaddy.com/engineering/2018/12/20/python-metaclasses/)
 - ## Tools and development environements: 
