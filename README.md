@@ -9,6 +9,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [AI and games](#AI-and-games)
     - [Monte Carlo Search](#Monte-Carlo-Search) 
   - [Deep Learning](#Deep-Learning)
+  - [Data Structures](#Data-Structures)
   - [Exploratory Data Analysis](#Exploratory-Data-Analysis):
     - [Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis](#Principal-component-analysis-Correspondence-Analysis-Multiple-Correspondence-Analysis)
   - [Fundamentals](#Fundamentals)
@@ -40,6 +41,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 # Deep Learning:
   - [Deep Learning Specialization - Andrew NG](https://www.coursera.org/specializations/deep-learning)
   - [A Recipe for Training Neural Networks - Andrej Karpathy](http://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR14qzU0WPypUSd2cJDn8_3GVDh6VjIcHBHcVJsLN9t7HtUkUfxzrluaaYY)
+# Data Structures:
+  - [4 types of tree traversal algorithms (Java implementation)](https://towardsdatascience.com/4-types-of-tree-traversal-algorithms-d56328450846)
 # Exploratory Data Analysis:
   - ## Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis:
     - [Analyse des données - Patrice Bertrand et Denis Pasquignon](https://www.ceremade.dauphine.fr/~pasquignon/analyse-des-donnees-M1.pdf) (French Course)
