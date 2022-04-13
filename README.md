@@ -42,6 +42,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Deep Learning Specialization - Andrew NG](https://www.coursera.org/specializations/deep-learning)
   - [A Recipe for Training Neural Networks - Andrej Karpathy](http://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR14qzU0WPypUSd2cJDn8_3GVDh6VjIcHBHcVJsLN9t7HtUkUfxzrluaaYY)
 # Data Structures:
+  - [Binary Tree](https://emre.me/data-structures/binary-tree/)
+  - [Binary Search Tree](https://emre.me/data-structures/binary-search-trees/)
   - [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/)
 # Exploratory Data Analysis:
   - ## Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis:
@@ -82,9 +84,11 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 - ## Preparing for a coding interview:
   - [Grokking LeetCode: A Smarter Way to Prepare for Coding Interviews](https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1)
   - ### Python implementation for different coding problem patterns:
-    This section may contain implementations in different programming languages but it can be coded the same way in Python.
       - [Coding Patterns: In-place Reversal of a Linked List](https://emre.me/coding-patterns/in-place-reversal-of-a-linked-list/)
       - [4 types of tree traversal algorithms (Java implementation)](https://towardsdatascience.com/4-types-of-tree-traversal-algorithms-d56328450846)
+      - [Coding Patterns: Depth First Search (DFS)](https://emre.me/coding-patterns/depth-first-search/)
+      - [Coding Patterns: Breadth First Search (DFS)](https://emre.me/coding-patterns/breadth-first-search/)
+ 
 # Statistics:
 - ## Estimation, Confidence Interval, Hypothesis Testing:
   - [Statistique mathématique - Vincent Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/Poly-L3-StatMath.pdf) (French Course)
