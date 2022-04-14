@@ -28,6 +28,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Tools and development environements](#Tools-and-development-environements)
       - [Jupyter Notebook](#Jupyter-Notebook)
     - [Preparing for a coding interview](#Preparing-for-a-coding-interview)
+      - [Algorithms](#Algorithms)
       - [Python implementation for different coding problem patterns:](#Python-implementation-for-different-coding-problem-patterns)
     - [Statistics](#Statistics)
     - [Estimation, Confidence Interval, Hypothesis Testing](#Estimation-Confidence-Interval-Hypothesis-Testing)
@@ -83,6 +84,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [7 essential tips for writing with jupyter notebook](https://towardsdatascience.com/7-essential-tips-for-writing-with-jupyter-notebook-60972a1a8901)
 - ## Preparing for a coding interview:
   - [Grokking LeetCode: A Smarter Way to Prepare for Coding Interviews](https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1)
+  - ### Algorithms:
+      - [Dynamic Programming](https://emre.me/algorithms/dynamic-programming/) 
   - ### Python implementation for different coding problem patterns:
       - [Coding Patterns: In-place Reversal of a Linked List](https://emre.me/coding-patterns/in-place-reversal-of-a-linked-list/)
       - [4 types of tree traversal algorithms (Java implementation)](https://towardsdatascience.com/4-types-of-tree-traversal-algorithms-d56328450846)
