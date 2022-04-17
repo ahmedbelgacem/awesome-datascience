@@ -73,6 +73,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Python Docstrings](https://www.datacamp.com/community/tutorials/docstrings-python)
   - [Auto-documenting a python project using Sphinx](https://betterprogramming.pub/auto-documenting-a-python-project-using-sphinx-8878f9ddc6e9)
 - ## Efficient Code:
+  - [Code Profiling](https://towardsdatascience.com/a-quick-and-easy-guide-to-code-profiling-in-python-58c0ed7e602b)
   - [Unpacking in Python](https://stackabuse.com/unpacking-in-python-beyond-parallel-assignment/)
 - ## Generators:
   - [Python yield, Generators and Generator Expressions](https://www.programiz.com/python-programming/generator?fbclid=IwAR2aGKoKpvMJy2R-jINBQMM7qcOeBczS192k1c2TZYwiV7YAKc1XKhboS4k)
@@ -86,6 +87,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Grokking LeetCode: A Smarter Way to Prepare for Coding Interviews](https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1)
   - ### Algorithms:
       - [Dynamic Programming](https://emre.me/algorithms/dynamic-programming/) 
+      - [Greedy Algorithms](https://emre.me/algorithms/greedy-algorithms/)
   - ### Python implementation for different coding problem patterns:
       - [Coding Patterns: In-place Reversal of a Linked List](https://emre.me/coding-patterns/in-place-reversal-of-a-linked-list/)
       - [4 types of tree traversal algorithms (Java implementation)](https://towardsdatascience.com/4-types-of-tree-traversal-algorithms-d56328450846)
