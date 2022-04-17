@@ -97,6 +97,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 # Statistics:
 - ## Estimation, Confidence Interval, Hypothesis Testing:
   - [Statistique mathématique - Vincent Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/Poly-L3-StatMath.pdf) (French Course)
+  - [The Bootstrap Method for Standard Errors and Confidence Intervals](https://www.dummies.com/article/academics-the-arts/science/biology/the-bootstrap-method-for-standard-errors-and-confidence-intervals-164614/)
 - ## Monte Carlo Method:
   - [Méthodes de Monte Carlo - Julien Stoehr](https://www.ceremade.dauphine.fr/~stoehr/M1_Monte_Carlo/Cours_Monte_Carlo.pdf) (French Course)
 # Web Scraping:  
