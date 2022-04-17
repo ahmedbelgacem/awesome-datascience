@@ -92,7 +92,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
       - [Coding Patterns: In-place Reversal of a Linked List](https://emre.me/coding-patterns/in-place-reversal-of-a-linked-list/)
       - [4 types of tree traversal algorithms (Java implementation)](https://towardsdatascience.com/4-types-of-tree-traversal-algorithms-d56328450846)
       - [Coding Patterns: Depth First Search (DFS)](https://emre.me/coding-patterns/depth-first-search/)
-      - [Coding Patterns: Breadth First Search (DFS)](https://emre.me/coding-patterns/breadth-first-search/)
+      - [Coding Patterns: Breadth First Search (BFS)](https://emre.me/coding-patterns/breadth-first-search/)
  
 # Statistics:
 - ## Estimation, Confidence Interval, Hypothesis Testing:
