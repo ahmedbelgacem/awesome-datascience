@@ -74,6 +74,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Auto-documenting a python project using Sphinx](https://betterprogramming.pub/auto-documenting-a-python-project-using-sphinx-8878f9ddc6e9)
 - ## Efficient Code:
   - [Code Profiling](https://towardsdatascience.com/a-quick-and-easy-guide-to-code-profiling-in-python-58c0ed7e602b)
+  - [Python's Counter: The Pythonic Way to Count Objects](https://realpython.com/python-counter/)
   - [Unpacking in Python](https://stackabuse.com/unpacking-in-python-beyond-parallel-assignment/)
 - ## Generators:
   - [Python yield, Generators and Generator Expressions](https://www.programiz.com/python-programming/generator?fbclid=IwAR2aGKoKpvMJy2R-jINBQMM7qcOeBczS192k1c2TZYwiV7YAKc1XKhboS4k)
