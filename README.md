@@ -76,6 +76,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Code Profiling](https://towardsdatascience.com/a-quick-and-easy-guide-to-code-profiling-in-python-58c0ed7e602b)
   - [Python's Counter: The Pythonic Way to Count Objects](https://realpython.com/python-counter/)
   - [Unpacking in Python](https://stackabuse.com/unpacking-in-python-beyond-parallel-assignment/)
+  - [Using the Python zip() Function for Parallel Iteration](https://realpython.com/python-zip-function/)
 - ## Generators:
   - [Python yield, Generators and Generator Expressions](https://www.programiz.com/python-programming/generator?fbclid=IwAR2aGKoKpvMJy2R-jINBQMM7qcOeBczS192k1c2TZYwiV7YAKc1XKhboS4k)
   - [How to Use Generators and yield in Python](https://realpython.com/introduction-to-python-generators/)
