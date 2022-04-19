@@ -46,6 +46,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Binary Tree](https://emre.me/data-structures/binary-tree/)
   - [Binary Search Tree](https://emre.me/data-structures/binary-search-trees/)
   - [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/)
+  - [Sets in Python](https://realpython.com/python-sets/)
 # Exploratory Data Analysis:
   - ## Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis:
     - [Analyse des données - Patrice Bertrand et Denis Pasquignon](https://www.ceremade.dauphine.fr/~pasquignon/analyse-des-donnees-M1.pdf) (French Course)
