@@ -30,7 +30,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Preparing for a coding interview](#Preparing-for-a-coding-interview)
       - [Algorithms](#Algorithms)
       - [Python implementation for different coding problem patterns:](#Python-implementation-for-different-coding-problem-patterns)
-    - [Statistics](#Statistics)
+  - [Statistics](#Statistics)
     - [Estimation, Confidence Interval, Hypothesis Testing](#Estimation-Confidence-Interval-Hypothesis-Testing)
     - [Monte Carlo Method](#Monte-Carlo-Method)
   - [Web Scraping](#Web-Scraping)  
