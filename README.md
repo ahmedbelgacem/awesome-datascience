@@ -91,6 +91,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 - ## Preparing for a coding interview:
   - [Grokking LeetCode: A Smarter Way to Prepare for Coding Interviews](https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1)
   - [Interview School](https://interviews.school)
+  - [Pramp - Mock interviews with peers](https://www.pramp.com/#/)
   - ### Algorithms:
       - [Dynamic Programming](https://emre.me/algorithms/dynamic-programming/) 
       - [Greedy Algorithms](https://emre.me/algorithms/greedy-algorithms/)
