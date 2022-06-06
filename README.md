@@ -69,6 +69,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [f-Strings: A New and Improved Way to Format Strings in Python](https://realpython.com/python-f-strings/#f-strings-a-new-and-improved-way-to-format-strings-in-python)
   - [The Zen of Python](https://zen-of-python.info/)
   - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+  - [PEP8 online checker](http://pep8online.com)
 - ## Distribution:
   - [How to create a Python library](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f)
   - [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
