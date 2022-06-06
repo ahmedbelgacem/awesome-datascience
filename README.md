@@ -78,6 +78,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Python's Counter: The Pythonic Way to Count Objects](https://realpython.com/python-counter/)
   - [Unpacking in Python](https://stackabuse.com/unpacking-in-python-beyond-parallel-assignment/)
   - [Using the Python zip() Function for Parallel Iteration](https://realpython.com/python-zip-function/)
+  - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - ## Generators:
   - [Python yield, Generators and Generator Expressions](https://www.programiz.com/python-programming/generator?fbclid=IwAR2aGKoKpvMJy2R-jINBQMM7qcOeBczS192k1c2TZYwiV7YAKc1XKhboS4k)
   - [How to Use Generators and yield in Python](https://realpython.com/introduction-to-python-generators/)
@@ -88,6 +89,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [7 essential tips for writing with jupyter notebook](https://towardsdatascience.com/7-essential-tips-for-writing-with-jupyter-notebook-60972a1a8901)
 - ## Preparing for a coding interview:
   - [Grokking LeetCode: A Smarter Way to Prepare for Coding Interviews](https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1)
+  - [Interview School](https://interviews.school)
   - ### Algorithms:
       - [Dynamic Programming](https://emre.me/algorithms/dynamic-programming/) 
       - [Greedy Algorithms](https://emre.me/algorithms/greedy-algorithms/)
