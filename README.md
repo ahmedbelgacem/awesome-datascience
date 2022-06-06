@@ -62,6 +62,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Machine Learning - Stanford University, Andrew NG](https://www.coursera.org/learn/machine-learning)
   - [Python Machine Learning, 3rd Edition - Sebastian Raschka , Vahid Mirjalili](https://sebastianraschka.com/books/#python-machine-learning-3rd-edition)
 # Python:
+- [Learning Python: Powerful Object-Oriented Programming - Mark Lutz](https://www.amazon.com/Learning-Python-Powerful-Object-Oriented-Programming-ebook/dp/B00DDZPC9S/ref=as_li_ss_tl?crid=2OZ9IA8BKEZKO&dchild=1&keywords=python+programming+language&qid=1588165545&sprefix=python+progra,aps,315&sr=8-3&linkCode=sl1&tag=adilet-20&linkId=bbe99ec15d04e43dd44966d937725cad&language=en_US)
 - ## Clean Code:
   - [How to write beautiful python code with PEP 8](https://realpython.com/python-pep8/)  
   - [5 Different Meanings of Underscore in Python](https://towardsdatascience.com/5-different-meanings-of-underscore-in-python-3fafa6cd0379)
