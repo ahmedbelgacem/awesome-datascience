@@ -90,6 +90,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - ### Jupyter Notebook
     - [7 essential tips for writing with jupyter notebook](https://towardsdatascience.com/7-essential-tips-for-writing-with-jupyter-notebook-60972a1a8901)
 - ## Preparing for a coding interview:
+  - [CP-Algorithms.com](https://cp-algorithms.com/)
   - [Competitive Programmer’s Handbook - Antti Laaksonen (2018)](https://cses.fi/book/book.pdf)
   - [Grokking LeetCode: A Smarter Way to Prepare for Coding Interviews](https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1)
   - [Interview School](https://interviews.school)
