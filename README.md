@@ -90,10 +90,11 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - ### Jupyter Notebook
     - [7 essential tips for writing with jupyter notebook](https://towardsdatascience.com/7-essential-tips-for-writing-with-jupyter-notebook-60972a1a8901)
 - ## Preparing for a coding interview:
+  - [Competitive Programmer’s Handbook - Antti Laaksonen (2018)](https://cses.fi/book/book.pdf)
   - [Grokking LeetCode: A Smarter Way to Prepare for Coding Interviews](https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1)
   - [Interview School](https://interviews.school)
-  - [Pramp - Mock interviews with peers](https://www.pramp.com/#/)
   - [Introduction to Algorithms, 3rd Edition](https://www.amazon.com/dp/0262033844/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=adilet-20&linkId=925f749322dc9e4485887dce6cbc8248&language=en_US)
+  - [Pramp - Mock interviews with peers](https://www.pramp.com/#/)
   - ### Algorithms:
       - [Dynamic Programming](https://emre.me/algorithms/dynamic-programming/) 
       - [Greedy Algorithms](https://emre.me/algorithms/greedy-algorithms/)
