@@ -106,7 +106,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
       - [Coding Patterns: Breadth First Search (BFS)](https://emre.me/coding-patterns/breadth-first-search/)
  - ## Preparing for a machine learning interview:
   - [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
-  - [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - Chip Huyen](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
+  - ### Machine Learning System Design:
+      - [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - Chip Huyen](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 # Statistics:
 - ## Estimation, Confidence Interval, Hypothesis Testing:
   - [Statistique mathématique - Vincent Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/Poly-L3-StatMath.pdf) (French Course)
