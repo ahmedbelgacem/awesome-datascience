@@ -104,7 +104,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
       - [4 types of tree traversal algorithms (Java implementation)](https://towardsdatascience.com/4-types-of-tree-traversal-algorithms-d56328450846)
       - [Coding Patterns: Depth First Search (DFS)](https://emre.me/coding-patterns/depth-first-search/)
       - [Coding Patterns: Breadth First Search (BFS)](https://emre.me/coding-patterns/breadth-first-search/)
- - ## Preparing for a machine learning interview:
+- ## Preparing for a machine learning interview:
   - [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
   - ### Machine Learning System Design:
       - [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - Chip Huyen](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
