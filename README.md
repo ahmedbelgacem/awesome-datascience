@@ -47,6 +47,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 # Computer Vision:
   - ## Edge Detection:
     - [Canny Edge Detection - Step by Step in Python](https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123)
+    - [Quality Assessment Methods to Evaluate the Performance of Edge Detection Algorithms](https://ieeexplore.ieee.org/document/9454489)
 # Deep Learning:
   - [Deep Learning Specialization - Andrew NG](https://www.coursera.org/specializations/deep-learning)
   - [A Recipe for Training Neural Networks - Andrej Karpathy](http://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR14qzU0WPypUSd2cJDn8_3GVDh6VjIcHBHcVJsLN9t7HtUkUfxzrluaaYY)
