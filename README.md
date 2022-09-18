@@ -1,6 +1,6 @@
 # awesome-datascience
 
-This is mainly a curated list of awesome python, machine learning and data science resources, articles, guides, courses and books. Since there's a lot of awesome lists for frameworks and libraries out there, I may add libraries, software and frameworks I find awesome but that's not the purpose of this list.  
+This is mainly a curated list of awesome python, machine learning, computer vision and data science resources, articles, guides, courses and books. Since there's a lot of awesome lists for frameworks and libraries out there, I may add libraries, software and frameworks I find awesome but that's not the purpose of this list.  
 This list will follow me along my journey and I will be updating it as I progress. I'm making this list for my personal use mainly but I'm sharing it here if it may help anyone.
 Some of the courses are courses I had at my university that are available freely online.
 Due to my master's degree and to my engineering degree I have free access to DataCamp, to some Coursera Courses and to different books from the library. Therefor you may have to purchase some stuff.
@@ -8,6 +8,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 - [Awesome Data Science:](#awesome-datascience)
   - [AI and games](#AI-and-games)
     - [Monte Carlo Search](#Monte-Carlo-Search) 
+  - [Computer Vision](#Computer-Vision)
+    - [Edge Detection](#Edge-Detection)  
   - [Deep Learning](#Deep-Learning)
   - [Data Structures](#Data-Structures)
   - [Exploratory Data Analysis](#Exploratory-Data-Analysis):
@@ -30,6 +32,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Preparing for a coding interview](#Preparing-for-a-coding-interview)
       - [Algorithms](#Algorithms)
       - [Python implementation for different coding problem patterns:](#Python-implementation-for-different-coding-problem-patterns)
+    - [Preparing for a machine learning interview](#Preparing-for-a-machine-learning-interview)
+      - [Machine Learning System Design](#Machine-Learning-System-Design)
   - [Statistics](#Statistics)
     - [Estimation, Confidence Interval, Hypothesis Testing](#Estimation-Confidence-Interval-Hypothesis-Testing)
     - [Monte Carlo Method](#Monte-Carlo-Method)
@@ -39,6 +43,9 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Intelligence artificielle, une approche ludique - Tristan Cazenave](https://basepub.dauphine.fr/handle/123456789/9340) (French Book)
   - ## Monte Carlo Search
     - [Monte Carlo Search - Tristan Cazenave](https://www.lamsade.dauphine.fr/~cazenave/MonteCarlo.pdf)
+# Computer Vision:
+  - ## Edge Detection:
+    - [Canny Edge Detection - Step by Step in Python](https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123)
 # Deep Learning:
   - [Deep Learning Specialization - Andrew NG](https://www.coursera.org/specializations/deep-learning)
   - [A Recipe for Training Neural Networks - Andrej Karpathy](http://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR14qzU0WPypUSd2cJDn8_3GVDh6VjIcHBHcVJsLN9t7HtUkUfxzrluaaYY)
