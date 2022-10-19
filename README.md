@@ -73,6 +73,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 # Machine Learning:
   - [Machine Learning - Stanford University, Andrew NG](https://www.coursera.org/learn/machine-learning)
   - [Python Machine Learning, 3rd Edition - Sebastian Raschka , Vahid Mirjalili](https://sebastianraschka.com/books/#python-machine-learning-3rd-edition)
+  - [Boosting algorithms explained](https://towardsdatascience.com/boosting-algorithms-explained-d38f56ef3f30)
   - ## Preparing for a machine learning interview:
     - [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
     - ### Machine Learning System Design:
