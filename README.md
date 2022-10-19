@@ -11,6 +11,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Computer Vision](#Computer-Vision)
     - [Edge Detection](#Edge-Detection)  
   - [Deep Learning](#Deep-Learning)
+    - [LSTM](#LSTM)  
   - [Data Structures](#Data-Structures)
   - [Exploratory Data Analysis](#Exploratory-Data-Analysis):
     - [Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis](#Principal-component-analysis-Correspondence-Analysis-Multiple-Correspondence-Analysis)
