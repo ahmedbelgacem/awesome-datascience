@@ -36,7 +36,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Preparing for a coding interview](#Preparing-for-a-coding-interview)
       - [Algorithms](#Algorithms)
       - [Python implementation for different coding problem patterns:](#Python-implementation-for-different-coding-problem-patterns)
-    
+  - [Reinforcement Learning](#Reinforcement-Learning)  
   - [Statistics](#Statistics)
     - [Estimation, Confidence Interval, Hypothesis Testing](#Estimation-Confidence-Interval-Hypothesis-Testing)
     - [Monte Carlo Method](#Monte-Carlo-Method)
@@ -125,6 +125,9 @@ Due to my master's degree and to my engineering degree I have free access to Dat
       - [4 types of tree traversal algorithms (Java implementation)](https://towardsdatascience.com/4-types-of-tree-traversal-algorithms-d56328450846)
       - [Coding Patterns: Depth First Search (DFS)](https://emre.me/coding-patterns/depth-first-search/)
       - [Coding Patterns: Breadth First Search (BFS)](https://emre.me/coding-patterns/breadth-first-search/)
+# Reinforcement Learning:
+  - [Reinforcement Learning An Introduction - Richard S.Sutton, Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+  - [Reinforcement Learning - Stéphane Airiau](https://www.lamsade.dauphine.fr/~airiau/Teaching/M2-IASDapp-RL/) (French Course)
 # Statistics:
 - ## Estimation, Confidence Interval, Hypothesis Testing:
   - [Statistique mathématique - Vincent Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/Poly-L3-StatMath.pdf) (French Course)
