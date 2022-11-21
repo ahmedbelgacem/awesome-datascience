@@ -22,6 +22,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Information Retrieval](#Information-Retrieval)
     - [Semantic Search](#Semantic-Search)
   - [Machine Learning](#Machine-Learning)
+    - [Boosting Algorithms](#Boosting-Algorithms)
     - [Machine Learning with Graphs](#Machine-Learning-with-Graphs)
     - [Preparing for a machine learning interview](#Preparing-for-a-machine-learning-interview)
       - [Machine Learning System Design](#Machine-Learning-System-Design)
@@ -78,7 +79,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 # Machine Learning:
   - [Machine Learning - Stanford University, Andrew NG](https://www.coursera.org/learn/machine-learning)
   - [Python Machine Learning, 3rd Edition - Sebastian Raschka , Vahid Mirjalili](https://sebastianraschka.com/books/#python-machine-learning-3rd-edition)
-  - [Boosting algorithms explained](https://towardsdatascience.com/boosting-algorithms-explained-d38f56ef3f30)
+  - ## Boosting Algorithms:
+    - [Boosting algorithms explained](https://towardsdatascience.com/boosting-algorithms-explained-d38f56ef3f30)
   - ## Machine Learning with Graphs:
     - [Machine Learning with Graphs - Stanford University](http://web.stanford.edu/class/cs224w/index.html#content)
     - [LiteratureDL4Graph, A comprehensive collection of recent papers on graph deep learning](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
