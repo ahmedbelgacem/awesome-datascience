@@ -1,4 +1,4 @@
-# awesome-datascience
+# Awesome-Datascience
 
 This is mainly a curated list of awesome python, machine learning, computer vision and data science resources, articles, guides, courses and books. Since there's a lot of awesome lists for frameworks and libraries out there, I may add libraries, software and frameworks I find awesome but that's not the purpose of this list.  
 This list will follow me along my journey and I will be updating it as I progress. I'm making this list for my personal use mainly but I'm sharing it here if it may help anyone.
