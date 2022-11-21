@@ -26,6 +26,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Machine Learning with Graphs](#Machine-Learning-with-Graphs)
     - [Preparing for a machine learning interview](#Preparing-for-a-machine-learning-interview)
       - [Machine Learning System Design](#Machine-Learning-System-Design)
+    - [Support Vector Machines](#Support-Vector-Machines)
   - [Python](#Python)
     - [Clean Code](#Clean-Code)
     - [Distribution](#Distribution)
@@ -89,6 +90,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
     - ### Machine Learning System Design:
         - [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - Chip Huyen](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
+  - ## Support Vector Machines:
+    - [Support Vector Machines (SVM) - An overview](https://towardsdatascience.com/https-medium-com-pupalerushikesh-svm-f4b42800e989)
 # Python:
 - [Learning Python: Powerful Object-Oriented Programming - Mark Lutz](https://www.amazon.com/Learning-Python-Powerful-Object-Oriented-Programming-ebook/dp/B00DDZPC9S/ref=as_li_ss_tl?crid=2OZ9IA8BKEZKO&dchild=1&keywords=python+programming+language&qid=1588165545&sprefix=python+progra,aps,315&sr=8-3&linkCode=sl1&tag=adilet-20&linkId=bbe99ec15d04e43dd44966d937725cad&language=en_US)
 - ## Clean Code:
