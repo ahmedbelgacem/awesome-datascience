@@ -9,11 +9,12 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [AI and games](#AI-and-games)
     - [Monte Carlo Search](#Monte-Carlo-Search) 
   - [Computer Vision](#Computer-Vision)
-    - [Edge Detection](#Edge-Detection)  
+    - [Edge Detection](#Edge-Detection)
+  - [Data Engineering](#Data-Engineering)  
+  - [Data Structures](#Data-Structures)
   - [Deep Learning](#Deep-Learning)
     - [RNN](#RNN)
     - [LSTM](#LSTM)  
-  - [Data Structures](#Data-Structures)
   - [Exploratory Data Analysis](#Exploratory-Data-Analysis):
     - [Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis](#Principal-component-analysis-Correspondence-Analysis-Multiple-Correspondence-Analysis)
   - [Fundamentals](#Fundamentals)
@@ -24,6 +25,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Machine Learning](#Machine-Learning)
     - [Boosting Algorithms](#Boosting-Algorithms)
     - [Machine Learning with Graphs](#Machine-Learning-with-Graphs)
+    - [Optimization for Machine Learning](#Optimization-for-Machine-Learning)
     - [Preparing for a machine learning interview](#Preparing-for-a-machine-learning-interview)
       - [Machine Learning System Design](#Machine-Learning-System-Design)
     - [Support Vector Machines](#Support-Vector-Machines)
@@ -53,6 +55,14 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - ## Edge Detection:
     - [Canny Edge Detection - Step by Step in Python](https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123)
     - [Quality Assessment Methods to Evaluate the Performance of Edge Detection Algorithms](https://ieeexplore.ieee.org/document/9454489)
+# Data Structures:
+  - [Binary Tree](https://emre.me/data-structures/binary-tree/)
+  - [Binary Search Tree](https://emre.me/data-structures/binary-search-trees/)
+  - [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/)
+  - [Sets in Python](https://realpython.com/python-sets/)
+# Data Engineering:
+  - [Hadoop: The Definitive Guide](https://grut-computing.com/HadoopBook.pdf)
+  - [Data-Intensive Text Processing with MapReduce](http://www.iro.umontreal.ca/~nie/IFT6255/Books/MapReduce.pdf)
 # Deep Learning:
   - [Deep Learning Specialization - Andrew NG](https://www.coursera.org/specializations/deep-learning)
   - [A Recipe for Training Neural Networks - Andrej Karpathy](http://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR14qzU0WPypUSd2cJDn8_3GVDh6VjIcHBHcVJsLN9t7HtUkUfxzrluaaYY)
@@ -62,11 +72,6 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - ## LSTM:
     - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
     - [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
-# Data Structures:
-  - [Binary Tree](https://emre.me/data-structures/binary-tree/)
-  - [Binary Search Tree](https://emre.me/data-structures/binary-search-trees/)
-  - [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/)
-  - [Sets in Python](https://realpython.com/python-sets/)
 # Exploratory Data Analysis:
   - ## Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis:
     - [Analyse des données - Patrice Bertrand et Denis Pasquignon](https://www.ceremade.dauphine.fr/~pasquignon/analyse-des-donnees-M1.pdf) (French Course)
@@ -87,6 +92,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - ## Machine Learning with Graphs:
     - [Machine Learning with Graphs - Stanford University](http://web.stanford.edu/class/cs224w/index.html#content)
     - [LiteratureDL4Graph, A comprehensive collection of recent papers on graph deep learning](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
+  - ## Optimization for Machine Learning:
+    - [Optimization for Machine Learning - Clément Royer](https://www.lamsade.dauphine.fr/%7Ecroyer/ensdocs/OML/PolyOML.pdf)
   - ## Preparing for a machine learning interview:
     - [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
     - ### Machine Learning System Design:
