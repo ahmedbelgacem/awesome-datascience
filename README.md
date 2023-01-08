@@ -13,8 +13,9 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Data Engineering](#Data-Engineering)  
   - [Data Structures](#Data-Structures)
   - [Deep Learning](#Deep-Learning)
-    - [RNN](#RNN)
     - [LSTM](#LSTM)  
+    - [Pytorch](#Pytorch)
+    - [RNN](#RNN)
   - [Exploratory Data Analysis](#Exploratory-Data-Analysis):
     - [Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis](#Principal-component-analysis-Correspondence-Analysis-Multiple-Correspondence-Analysis)
   - [Fundamentals](#Fundamentals)
@@ -67,11 +68,13 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Deep Learning Specialization - Andrew NG](https://www.coursera.org/specializations/deep-learning)
   - [A Recipe for Training Neural Networks - Andrej Karpathy](http://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR14qzU0WPypUSd2cJDn8_3GVDh6VjIcHBHcVJsLN9t7HtUkUfxzrluaaYY)
   - [An intuitive guide to deep network architectures](https://towardsdatascience.com/an-intuitive-guide-to-deep-network-architectures-65fdc477db41)
-  - ## RNN:
-    - [Illustrated Guide to Recurrent Neural Networks](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
   - ## LSTM:
     - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
     - [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+  - ## Pytorch:
+    - [Pytorch 101: An applied tutorial](https://www.youtube.com/watch?v=_R-mvKBD5U8&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2&index=1)
+  - ## RNN:
+    - [Illustrated Guide to Recurrent Neural Networks](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
 # Exploratory Data Analysis:
   - ## Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis:
     - [Analyse des données - Patrice Bertrand et Denis Pasquignon](https://www.ceremade.dauphine.fr/~pasquignon/analyse-des-donnees-M1.pdf) (French Course)
