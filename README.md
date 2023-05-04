@@ -16,7 +16,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Data Structures](#Data-Structures)
   - [Deep Learning](#Deep-Learning)
     - [LSTM](#LSTM)  
-    - [Deep Multi-Task Learning)(#Deep-Multi-Task-Learning)
+    - [Deep Multi-Task Learning](#Deep-Multi-Task-Learning)
     - [Pytorch](#Pytorch)
     - [RNN](#RNN)
     - [SPP](#SPP)
