@@ -58,6 +58,12 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - ## Edge Detection:
     - [Canny Edge Detection - Step by Step in Python](https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123)
     - [Quality Assessment Methods to Evaluate the Performance of Edge Detection Algorithms](https://ieeexplore.ieee.org/document/9454489)
+  - ## Semantic Segmentation:
+    - [A survey of loss functions for semantic segmentation](https://arxiv.org/pdf/2006.14822.pdf)
+  - ## Yolo:
+    - [Understand yolov8 structure](https://github.com/akashAD98/yolov8_in_depth)
+    - [YOLOv8: One Concept You Must Know in Object Detection — Letterbox](https://medium.com/mlearning-ai/letterbox-in-object-detection-77ee14e5ac46)
+  - [The dumb reason your fancy Computer Vision app isn’t working: Exif Orientation](https://medium.com/@ageitgey/the-dumb-reason-your-fancy-computer-vision-app-isnt-working-exif-orientation-73166c7d39da)
 # Data Structures:
   - [Binary Tree](https://emre.me/data-structures/binary-tree/)
   - [Binary Search Tree](https://emre.me/data-structures/binary-search-trees/)
