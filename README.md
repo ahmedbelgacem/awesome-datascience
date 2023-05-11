@@ -25,6 +25,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Fundamentals](#Fundamentals)
     - [Git](#Git)
     - [Regex](#Regex)
+  - [GPU Accelerated Deep Learning](#GPU-Accelerated-Deep-Learning)
+    - [TensorRT](#TensorRT)
   - [Information Retrieval](#Information-Retrieval)
     - [Semantic Search](#Semantic-Search)
   - [Machine Learning](#Machine-Learning)
@@ -100,7 +102,9 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 # Fundamentals:
   - ## Git:
     - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git)
-  - ## Regex:
+# GPU Accelerated Deep Learning:
+  - ## TensorRT:
+    - [Profiling Deep Learning Networks And Automatic Mixed Precision For Optimization](https://on-demand.gputechconf.com/gtc-cn/2019/pdf/CN9620/presentation.pdf)
 # Information Retrieval:
   - [Introduction to Information Retrieval - Cambridge University, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
   - ## Semantic Search:
