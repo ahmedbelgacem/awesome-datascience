@@ -10,6 +10,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Monte Carlo Search](#Monte-Carlo-Search) 
   - [Computer Vision](#Computer-Vision)
     - [Edge Detection](#Edge-Detection)
+    - [Object Detection](#Object-Detection)
     - [Semantic Segmentation](#Semantic-Segmentation)
     - [Yolo](#Yolo)
   - [Data Engineering](#Data-Engineering)  
@@ -64,6 +65,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - ## Edge Detection:
     - [Canny Edge Detection - Step by Step in Python](https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123)
     - [Quality Assessment Methods to Evaluate the Performance of Edge Detection Algorithms](https://ieeexplore.ieee.org/document/9454489)
+  - ## Object Detection:
+    - [Deep Learning Bible 4- Object Detection](https://wikidocs.net/book/8119)
   - ## Semantic Segmentation:
     - [A survey of loss functions for semantic segmentation](https://arxiv.org/pdf/2006.14822.pdf)
   - ## Yolo:
