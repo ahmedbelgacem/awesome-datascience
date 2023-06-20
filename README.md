@@ -26,7 +26,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Fundamentals](#Fundamentals)
     - [Git](#Git)
     - [Regex](#Regex)
-  - [GPU Accelerated Deep Learning](#GPU-Accelerated-Deep-Learning)
+  - [Machine Learning Compilers, optimizers and Gpu accelerated deep learning](#Machine-Learning-Compilers,-optimizers-and-Gpu-accelerated-deep-learning)
     - [TensorRT](#TensorRT)
   - [Information Retrieval](#Information-Retrieval)
     - [Semantic Search](#Semantic-Search)
@@ -95,6 +95,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Multi Task Learning with Homoscedastic Uncertainty Implementation](https://github.com/ranandalon/mtl)
   - ## Pytorch:
     - [Pytorch 101: An applied tutorial](https://www.youtube.com/watch?v=_R-mvKBD5U8&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2&index=1)
+    - [Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/)
   - ## RNN:
     - [Illustrated Guide to Recurrent Neural Networks](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
   - ## SPP:
@@ -105,7 +106,8 @@ Due to my master's degree and to my engineering degree I have free access to Dat
 # Fundamentals:
   - ## Git:
     - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git)
-# GPU Accelerated Deep Learning:
+# Machine Learning Compilers, optimizers and Gpu accelerated deep learning:
+  - [A friendly introduction to machine learning compilers and optimizers](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)
   - ## TensorRT:
     - [Profiling Deep Learning Networks And Automatic Mixed Precision For Optimization](https://on-demand.gputechconf.com/gtc-cn/2019/pdf/CN9620/presentation.pdf)
 # Information Retrieval:
