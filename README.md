@@ -108,6 +108,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git)
 # Machine Learning Compilers, optimizers and Gpu accelerated deep learning:
   - [A friendly introduction to machine learning compilers and optimizers](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)
+  - [The Correct Way to Measure Inference Time of Deep Neural Networks](https://deci.ai/blog/measure-inference-time-deep-neural-networks/)
   - ## TensorRT:
     - [Profiling Deep Learning Networks And Automatic Mixed Precision For Optimization](https://on-demand.gputechconf.com/gtc-cn/2019/pdf/CN9620/presentation.pdf)
 # Information Retrieval:
