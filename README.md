@@ -6,7 +6,7 @@ Some of the courses are courses I had at my university that are available freely
 Due to my master's degree and to my engineering degree I have free access to DataCamp, to some Coursera Courses and to different books from the library. Therefor you may have to purchase some stuff.
 
 - [Awesome Data Science:](#awesome-datascience)
-  - [AI and games](#AI-and-games)
+  - [AI and games](#ai-and-games)
     - [Monte Carlo Search](#Monte-Carlo-Search) 
   - [Computer Vision](#Computer-Vision)
     - [Edge Detection](#Edge-Detection)
