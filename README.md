@@ -21,6 +21,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Pytorch](#pytorch)
     - [RNN](#rnn)
     - [SPP](#spp)
+  - [Docker](#docker)
   - [Exploratory Data Analysis](#exploratory-data-analysis):
     - [Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis](#principal-component-analysis-correspondence-analysis-multiple-correspondence-analysis)
   - [Fundamentals](#fundamentals)
@@ -99,6 +100,10 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [Illustrated Guide to Recurrent Neural Networks](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
   - ## SPP:
     - [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729v4.pdf)
+# Docker:
+  - [Simplified guide to using Docker for local development environment](https://blog.atulr.com/docker-local-environment/)
+  - [Use the same Dockerfile for both local development and production with multi-stage builds](https://blog.atulr.com/docker-local-production-image/)
+  - [Introduction to docker - Datacamp](https://www.datacamp.com/courses/introduction-to-docker)
 # Exploratory Data Analysis:
   - ## Principal component analysis, Correspondence Analysis, Multiple Correspondence Analysis:
     - [Analyse des données - Patrice Bertrand et Denis Pasquignon](https://www.ceremade.dauphine.fr/~pasquignon/analyse-des-donnees-M1.pdf) (French Course)
