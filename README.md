@@ -31,6 +31,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Information Retrieval](#information-retrieval)
     - [Semantic Search](#semantic-search)
   - [Image Generation](#image-generation)
+    - [Diffusion Models](#diffusion-models)
   - [Machine Learning](#machine-learning)
     - [Boosting Algorithms](#boosting-algorithms)
     - [Machine Learning with Graphs](#machine-learning-with-graphs)
