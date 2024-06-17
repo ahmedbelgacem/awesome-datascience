@@ -30,6 +30,7 @@ Due to my master's degree and to my engineering degree I have free access to Dat
     - [TensorRT](#tensorrt)
   - [Information Retrieval](#information-retrieval)
     - [Semantic Search](#semantic-search)
+  - [Image Generation](#image-generation)
   - [Machine Learning](#machine-learning)
     - [Boosting Algorithms](#boosting-algorithms)
     - [Machine Learning with Graphs](#machine-learning-with-graphs)
@@ -119,6 +120,9 @@ Due to my master's degree and to my engineering degree I have free access to Dat
   - [Introduction to Information Retrieval - Cambridge University, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
   - ## Semantic Search:
     - [Semantic Search - Sentence Transformers Documentation](https://www.sbert.net/examples/applications/semantic-search/README.html) - A guide on using sbert for semantic search
+# Image Generation:
+  - ## Diffusion Models:
+    - [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/?fbclid=IwAR1BIeNHqa3NtC8SL0sKXHATHklJYphNH-8IGNoO3xZhSKM_GYcvrrQgB0o)
 # Machine Learning:
   - [Machine Learning - Stanford University, Andrew NG](https://www.coursera.org/learn/machine-learning)
   - [Python Machine Learning, 3rd Edition - Sebastian Raschka , Vahid Mirjalili](https://sebastianraschka.com/books/#python-machine-learning-3rd-edition)
