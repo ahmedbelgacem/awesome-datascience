@@ -83,9 +83,11 @@ Some of the courses are courses I had at my university that are available freely
   - ## Variational Autoencoders:
     - [The theory behind Latent Variable Models: formulating a Variational Autoencoder](https://theaisummer.com/latent-variable-models/#variational-autoencoders)
     - [How to Generate Images using Autoencoders](https://theaisummer.com/Autoencoder/)
+    - [MIT 6.S191 Introduction to Deep Learning Lecture 4: Deep Generative Modeling](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L4.pdf)
   - ## Diffusion Models:
     - [Diffusion Theory](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/01-Diffusion-Theory.md)
     - [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/?fbclid=IwAR1BIeNHqa3NtC8SL0sKXHATHklJYphNH-8IGNoO3xZhSKM_GYcvrrQgB0o)
+    - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
 # Information Retrieval:
   - [Introduction to Information Retrieval - Cambridge University, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
   - ## Semantic Search:
