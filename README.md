@@ -88,6 +88,7 @@ Some of the courses are courses I had at my university that are available freely
     - [Diffusion Theory](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/01-Diffusion-Theory.md)
     - [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/?fbclid=IwAR1BIeNHqa3NtC8SL0sKXHATHklJYphNH-8IGNoO3xZhSKM_GYcvrrQgB0o)
     - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+    - [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103)
 # Information Retrieval:
   - [Introduction to Information Retrieval - Cambridge University, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
   - ## Semantic Search:
