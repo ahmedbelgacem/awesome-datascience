@@ -107,7 +107,7 @@ Some of the courses are courses I had at my university that are available freely
     - [Support Vector Machines (SVM) - An overview](https://towardsdatascience.com/https-medium-com-pupalerushikesh-svm-f4b42800e989)
 # Mathematics:
   - ## Optimization for Machine Learning:
-    - [Optimization for Machine Learning - Clément Royer](https://www.lamsade.dauphine.fr/%7Ecroyer/ensdocs/OML/PolyOML.pdf)
+    - [Optimization for Machine Learning - Clément Royer](https://www.lamsade.dauphine.fr/%7Ecroyer/ensdocs/OAA/PolyOAA.pdf)
 # Natural Language Processing:
   - ## Transformers:
     - [Attention is all you need](https://arxiv.org/abs/1706.03762)
