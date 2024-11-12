@@ -45,6 +45,8 @@ Some of the courses are courses I had at my university that are available freely
 # Deep Learning:
   - [Deep Learning Specialization - Andrew NG](https://www.coursera.org/specializations/deep-learning)
   - [A Recipe for Training Neural Networks - Andrej Karpathy](http://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR14qzU0WPypUSd2cJDn8_3GVDh6VjIcHBHcVJsLN9t7HtUkUfxzrluaaYY)
+  - [GroupNorm,BatchNorm,InstanceNorm,LayerNorm](https://medium.com/@zljdanceholic/groupnorm-then-batchnorm-instancenorm-layernorm-e2b2a1d350a0)
+  - [Sinusoidal Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
   - ## LSTM:
     - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
     - [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
