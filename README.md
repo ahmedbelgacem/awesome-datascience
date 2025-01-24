@@ -204,6 +204,8 @@ for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078)
         - [Multimodal Neurons in Artificial Neural Networks](https://distill.pub/2021/multimodal-neurons/)
 # Generative Models:
 - ## Variational Autoencoders:
+    - ### Papers:
+        - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
     - ### Blogs, Tutorials and Courses:
         - [The theory behind Latent Variable Models: formulating a Variational Autoencoder](https://theaisummer.com/latent-variable-models/#variational-autoencoders)
         - [How to Generate Images using Autoencoders](https://theaisummer.com/Autoencoder/)
@@ -234,6 +236,8 @@ Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
     - ### Blogs, Tutorials and Courses:
         - [Semantic Search - Sentence Transformers Documentation](https://www.sbert.net/examples/applications/semantic-search/README.html) - A guide on using sbert for semantic search
 # Machine Learning:
+- ## Papers:
+    - [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - ## Books:
     - [Python Machine Learning, 3rd Edition - Sebastian Raschka , Vahid Mirjalili](https://sebastianraschka.com/books/#python-machine-learning-3rd-edition)
 - ## Blogs, Tutorials and Courses:
