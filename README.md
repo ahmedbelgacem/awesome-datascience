@@ -339,6 +339,7 @@ Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
     - [Reinforcement Learning An Introduction - Richard S.Sutton, Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - ## Blogs, Tutorials and Courses:
     - [Reinforcement Learning - Stéphane Airiau](https://www.lamsade.dauphine.fr/~airiau/Teaching/M2-IASDapp-RL/) (French Course)
+    - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 # Statistics:
 - ## Estimation, Confidence Interval, Hypothesis Testing:
   - ### Blogs, Tutorials and Courses:
