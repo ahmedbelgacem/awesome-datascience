@@ -286,6 +286,8 @@ Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
         - [Binary Search Tree](https://emre.me/data-structures/binary-search-trees/)
         - [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/)
         - [Sets in Python](https://realpython.com/python-sets/)
+        - [7 ways to implement DTOs in Python and what to keep in mind](https://dev.to/izabelakowal/some-ideas-on-how-to-implement-dtos-in-python-be3)
+        - [How to Use Python Data Classes in 2023](https://www.dataquest.io/blog/how-to-use-python-data-classes/)
 - ## Distribution:
     - ### Blogs, Tutorials and Courses:
         - [How to create a Python library](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f)
@@ -305,8 +307,8 @@ Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
         - [Python yield, Generators and Generator Expressions](https://www.programiz.com/python-programming/generator?fbclid=IwAR2aGKoKpvMJy2R-jINBQMM7qcOeBczS192k1c2TZYwiV7YAKc1XKhboS4k)
         - [How to Use Generators and yield in Python](https://realpython.com/introduction-to-python-generators/)
 - ## Metaclasses:
-- ### Blogs, Tutorials and Courses:
-    - [Python Metaclasses](https://www.godaddy.com/engineering/2018/12/20/python-metaclasses/)
+    - ### Blogs, Tutorials and Courses:
+        - [Python Metaclasses](https://www.godaddy.com/engineering/2018/12/20/python-metaclasses/)
 - ## Tools and development environements: 
   - ### Jupyter Notebook
     - #### Blogs, Tutorials and Courses:
